@@ -1,0 +1,35 @@
+# Data handling and manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+tensorflow
+
+# Web framework
+Flask
+# Or if you prefer Django:
+# Django
+# django-rest-framework
+
+# Data visualization (optional, for the UI)
+plotly
+# chart.js is a JS library, not a Python package
+
+# Database (optional, if you choose to use a database)
+psycopg2-binary  # If you use PostgreSQL
+
+# Other utilities
+python-dotenv  # For managing environment variables
+requests  # For making HTTP requests (e.g., to APIs)
+
+# Code Quality (Optional)
+black
+flake8
+pytest
+
+# Web Server (Optional)
+gunicorn
+
+# API (Optional)
+beautifulsoup4
